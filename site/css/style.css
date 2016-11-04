@@ -1,0 +1,80 @@
+
+  *{
+    	 font-family: 'Montserrat';
+
+     }
+
+
+  html { 
+      
+      background-image: 
+      url("../img/dieter.jpg");
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat; 
+      background-position: 300px 5px;
+      background-color: #f2f2f2;
+    }
+
+  h1 {
+  	
+  	  color:#f03b13;
+  	  font-weight: 100; 
+  	  font-size: 9em;
+  	  line-height: 1em;
+  	  margin: 100px 100px 0px 100px;
+
+  }
+
+  h2 {
+
+  	  color: #000;
+  	  font-weight: 400;
+  	  font-size: 6em;
+  	  line-height: 1em;
+  	  margin: 0px 66px 0px 100px;
+
+  	  letter-spacing: 2px;
+  	
+  	  width:40%;	
+  }
+
+
+  h3 {
+      
+      margin: 20px 66px 0px 100px;
+      font-weight: 400;
+      font-size: 4em;
+     
+  }
+   
+  h4 {
+
+     color:#f03b13;
+  }
+
+  p{
+
+      font-weight: 400;
+
+  }
+
+  .dropdown {
+      position: absolute;
+      
+      
+  }
+
+  .dropdown-content {
+      display: none;
+      background-color: rgba(240,240,240,0.9);
+      margin-left: 100px;
+      width:40%;  
+      padding: 1px 1px;
+  }
+
+  .dropdown:hover .dropdown-content {
+      display: block;
+  }
+
+
