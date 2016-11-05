@@ -14,6 +14,7 @@
       background-repeat: no-repeat; 
       background-position: 300px 5px;
       background-color: #f2f2f2;
+      margin-bottom: 15px;
     }
 
   h1 {
@@ -56,6 +57,7 @@
   p{
 
       font-weight: 400;
+      line-height: 1.5em;
 
   }
 
@@ -71,6 +73,7 @@
       margin-left: 100px;
       width:40%;  
       padding: 1px 1px;
+      margin-bottom: 20px;
   }
 
   .dropdown:hover .dropdown-content {
